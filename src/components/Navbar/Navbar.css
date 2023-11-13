@@ -1,3 +1,4 @@
+
 nav{
     display: flex;  
     flex-direction: row;
@@ -14,7 +15,6 @@ ul{
     align-items: center;
     justify-content: center;  
     list-style: none;  
-    border: 1px solid white;
     margin-right: 400px; 
 }
 li{
@@ -31,8 +31,9 @@ li{
     color: #f5f0f0;
     text-decoration: none;
 }
-
+.aNav:hover{
+    color: #817f7f
+}
 .logo{
     padding-left: 80px;
-    border: 1px solid white;
 }

@@ -1,5 +1,6 @@
 .card{
     display: flex;
+    flex-direction: column;
     justify-content: center;
     align-items: center;    
     margin: 10px;
@@ -14,4 +15,8 @@
     background-color: antiquewhite;
     padding: 8px;
     border-radius: 5px;
+}
+
+.detalle:hover{
+    background-color: rgb(243, 193, 132);
 }

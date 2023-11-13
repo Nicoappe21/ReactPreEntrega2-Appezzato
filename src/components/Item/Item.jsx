@@ -6,7 +6,7 @@ import { Link } from 'react-router-dom';
 const Item = ({equipo, año, precio, detalle, stock, id}) => {
   return (
     <article className='card'>
-        <h6>Equipo: {equipo}</h6>
+        <h4>Equipo: {equipo}</h4>
         <p>Año: {año}</p>
         <p>Precio: ${precio}</p>
         <Link to={`/item/${id}`} className='detalle'> Detalle </Link>

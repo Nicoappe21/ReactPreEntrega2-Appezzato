@@ -10,9 +10,9 @@ function NavBar() {
    <nav>
     <h1 className='logo'><Link className='titulo aNav'to={"/"}>CASACASHOWROOM</Link></h1>
     <ul>
-      <li><Link className='aNav' to={"/Boca Juniors"}>Boca</Link></li>
-      <li><Link className='aNav' to={"/River Plate"}>River</Link></li>
-      <li><Link className='aNav' to={"/Argentina"}>Seleccion</Link></li>
+      <li><Link className='aNav' to={"/category/Boca Juniors"}>Boca</Link></li>
+      <li><Link className='aNav' to={"/category/River Plate"}>River</Link></li>
+      <li><Link className='aNav' to={"/category/Argentina"}>Seleccion</Link></li>
     </ul>
     <CartWidget/>
    </nav>
