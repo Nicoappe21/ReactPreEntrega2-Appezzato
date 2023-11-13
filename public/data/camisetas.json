@@ -1,0 +1,14 @@
+
+    [
+      {"id": 1, "equipo": "Boca Juniors", "año": 2023, "precio": 1500, "detalle": null, "imagen": null, "stock": 5},
+      {"id": 2, "equipo": "Boca Juniors", "año": 2022, "precio": 1400, "detalle": null, "imagen": null, "stock": 3},
+      {"id": 3, "equipo": "Boca Juniors", "año": 2021, "precio": 1300, "detalle": null, "imagen": null, "stock": 7},
+      
+      {"id": 4, "equipo": "River Plate", "año": 2023, "precio": 1600, "detalle": null, "imagen": null, "stock": 6},
+      {"id": 5, "equipo": "River Plate", "año": 2022, "precio": 1500, "detalle": null, "imagen": null, "stock": 4},
+      {"id": 6, "equipo": "River Plate", "año": 2021, "precio": 1400, "detalle": null, "imagen": null, "stock": 1},
+      
+      {"id": 7, "equipo": "Argentina", "año": 2023, "precio": 1800, "detalle": null, "imagen": null, "stock": 7},
+      {"id": 8, "equipo": "Argentina", "año": 2022, "precio": 1700, "detalle": null, "imagen": null, "stock": 2},
+      {"id": 9, "equipo": "Argentina", "año": 2021, "precio": 1600, "detalle": null, "imagen": null, "stock": 4}
+    ]

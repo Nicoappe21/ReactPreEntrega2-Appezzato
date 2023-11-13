@@ -1,0 +1,8 @@
+.contador{
+    display: flex;
+}
+
+.contador p, button{
+    margin: 2px
+} 
+

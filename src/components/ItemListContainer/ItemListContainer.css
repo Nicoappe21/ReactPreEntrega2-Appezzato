@@ -1,0 +1,11 @@
+.titulo{
+    display: flex;  
+    justify-content: center;    
+    margin: 20px;
+}
+ .camisetas{
+    display: flex;  
+    align-items: center;
+    justify-content: center;
+
+ }
